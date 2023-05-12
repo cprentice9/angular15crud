@@ -23,6 +23,27 @@
       "beenToGym": "Yes",
       "enquiryDate": "2023-05-12T05:00:00.000Z",
       "id": 2
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Test",
+      "email": "test@test.com",
+      "phoneNumber": "1112223333",
+      "weight": 72,
+      "height": 1.77,
+      "bmi": 22.981901752370007,
+      "bmiResult": "Normal Weight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Fat reduction",
+        "Energy and endurance",
+        "Building lean muscle"
+      ],
+      "beenToGym": "Yes",
+      "enquiryDate": "2023-05-12T05:00:00.000Z",
+      "id": 3
     }
   ]
 }

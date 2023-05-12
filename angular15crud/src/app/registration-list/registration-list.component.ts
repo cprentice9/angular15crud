@@ -2,7 +2,6 @@ import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatTable, MatTableDataSource } from '@angular/material/table';
 import { MatSort } from '@angular/material/sort';
 import { MatPaginator } from '@angular/material/paginator';
-import { CdkTableDataSourceInput } from '@angular/cdk/table';
 import { User } from '../models/user.model';
 import { ApiService } from '../services/api.service';
 import { Router } from '@angular/router';
